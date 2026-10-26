@@ -96,7 +96,7 @@
         "@typescript-eslint/eslint-plugin": "^8.46.4",
         "@typescript-eslint/parser": "^8.46.4",
         "@vitejs/plugin-react-swc": "^4.0.0",
-        "@vitest/coverage-v8": "^4.0.0",
+        "@vitest/coverage-v8": "^4.1.12",
         "eslint": "^9.11.1",
         "eslint-config-prettier": "^10.1.8",
         "eslint-plugin-jsx-a11y": "^6.10.2",
@@ -114,7 +114,7 @@
         "vite": "^7.0.0",
         "vite-plugin-html": "^3.2.2",
         "vite-tsconfig-paths": "^5.0.1",
-        "vitest": "^4.0.0"
+        "vitest": "^4.1.12"
     },
     "eslintConfig": {
         "extends": [
